@@ -1,0 +1,5 @@
+Sistema operativo: Windows
+java --version: Java 21
+javac --version: Java 21
+javap: funciona
+Resultado: las tres herramientas están disponibles.
